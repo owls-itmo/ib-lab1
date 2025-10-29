@@ -131,5 +131,8 @@ The project has CI. The CI workflow performs security checks:
 - code is checked by `semgrep` SAST engine using OWASP TOP 10 rule set
 
 
+## Security pipeline check results
 
+![pnpm audit successful](media/audit.png)
+![semgrep scan successful](media/semgrep.png)
 
